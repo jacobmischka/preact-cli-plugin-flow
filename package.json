@@ -1,5 +1,5 @@
 {
-    "name": "preact-cli-plugin-flow",
+    "name": "@jacobmischka/preact-cli-plugin-flow",
     "description": "Use flow with the Preact CLI",
     "version": "0.2.0",
     "main": "src/index.js",
